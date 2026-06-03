@@ -1,9 +1,13 @@
 name: generate-dark-red-3d-chart
 
+# 👇 This grants write access to the repository contents
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 0 * * *"          # runs every day at midnight UTC
-  workflow_dispatch:              # lets you run it manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
