@@ -54,6 +54,7 @@ def main() -> None:
     readme = ROOT / "README.md"
     src = readme.read_text(encoding="utf-8")
     out = re.sub(r'alt="RED — [^"]*, full-stack builder"', f'alt="RED — {safe}, full-stack builder"', src)
+    out = re.sub(r'alt="whoami: [^,"]*, full-stack builder\.', f'alt="whoami: {safe}, full-stack builder.', out)
     if out != src:
         readme.write_text(out, encoding="utf-8")
         changed = True
