@@ -92,7 +92,7 @@
     <g class="main" filter="url(#neon)"><text x="600" y="232" text-anchor="middle" class="logo" fill="url(#red)">RED</text></g>
     <g clip-path="url(#logoClip)"><rect class="sweep" x="400" y="40" width="120" height="240" fill="url(#shine)"/></g>
   </g>
-  <g class="rise2"><text x="600" y="296" text-anchor="middle" class="sub">RED CAD · FULL-STACK BUILDER</text></g>
+  <g class="rise2"><text id="profile-name" x="600" y="296" text-anchor="middle" class="sub">R CADACH · FULL-STACK BUILDER</text></g>
   <g class="rise3"><text x="600" y="330" text-anchor="middle" class="tag">AI AGENTS  ◆  DESKTOP APPS  ◆  ERP SYSTEMS  ◆  INFRA</text></g>
   <!-- HUD -->
   <g stroke="#ff1a2e" stroke-width="2" fill="none" opacity=".85">
