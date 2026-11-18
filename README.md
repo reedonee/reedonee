@@ -36,7 +36,7 @@
 <div align="center">
 <a href="https://github.com/reedonee/ORCH"><img src="assets/card-orch.svg" width="49%" alt="ORCH — voice-controlled multi-agent desktop workspace"/></a>
 <a href="https://github.com/reedonee/MedCare"><img src="assets/card-medcare.svg" width="49%" alt="MedCare — pharmacy management ERP"/></a>
-<a href="https://github.com/reedonee/LLM"><img src="assets/card-llm.svg" width="49%" alt="LLM Worker — OpenAI-compatible LLM API"/></a>
+<a href="https://github.com/reedonee/wakelight"><img src="assets/card-wakelight.svg" width="49%" alt="Wakelight — live wallpaper showcase, matching lock screen and lock-on-return for Wallpaper Engine"/></a>
 <a href="https://github.com/reedonee/red-eye-bot"><img src="assets/card-redeye.svg" width="49%" alt="red-eye-bot"/></a>
 </div>
 
