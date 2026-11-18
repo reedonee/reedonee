@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/reedonee"><img src="assets/header.svg" width="100%" alt="RED — red cad, full-stack builder"/></a>
+<a href="https://github.com/reedonee"><img src="assets/header.svg" width="100%" alt="RED — r cadach, full-stack builder"/></a>
 
 <a href="https://github.com/reedonee"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=FF1A2E&center=true&vCenter=true&width=760&lines=Building+voice-controlled+AI+agent+workspaces;Shipping+ERPs+for+pharmacies+%26+HR+teams;Automating+backups+across+S3%2C+Oracle+%26+Proxmox;Local-first.+Fast.+Relentless." alt="Typing intro"/></a>
 
