@@ -16,7 +16,7 @@
 <img src="assets/title-about.svg" width="100%" alt="01 — WHOAMI"/>
 
 <div align="center">
-<img src="assets/terminal.svg" width="100%" alt="whoami: red cad, full-stack builder. Focus: voice-controlled multi-agent AI workspaces, ERP systems for healthcare and HR, self-hosted infra."/>
+<img src="assets/terminal.svg" width="100%" alt="whoami: r cadach, full-stack builder. Focus: voice-controlled multi-agent AI workspaces, ERP systems for healthcare and HR, self-hosted infra."/>
 </div>
 
 <details>
