@@ -74,6 +74,11 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=reedonee&bg_color=0b0b0d&color=ff6b75&line=ff1a2e&point=ffffff&area=true&area_color=ff1a2e&hide_border=true&custom_title=Contribution%20pulse" width="100%" alt="Contribution activity graph"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reedonee/reedonee/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/reedonee/reedonee/output/github-snake.svg" width="100%" alt="Snake eating my contribution graph"/>
+</picture>
+
 </div>
 
 <div align="center">
