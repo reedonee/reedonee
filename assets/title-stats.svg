@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="64" viewBox="0 0 880 64">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff1a2e"/><stop offset="1" stop-color="#ff1a2e" stop-opacity="0"/></linearGradient>
+<style>
+.n{font:700 14px Consolas,'Courier New',monospace;fill:#ff1a2e;letter-spacing:2px}
+.t{font:italic 900 30px Impact,'Arial Black','Segoe UI',Helvetica,Arial,sans-serif;fill:#f4f4f4;letter-spacing:3px}
+.ln{transform-origin:0 0;transform:scaleX(0);animation:gr 1.4s .2s cubic-bezier(.2,.8,.2,1) forwards}@keyframes gr{to{transform:scaleX(1)}}
+.tx{opacity:0;animation:in .8s cubic-bezier(.2,.8,.2,1) forwards}@keyframes in{from{opacity:0;transform:translateX(-16px)}to{opacity:1;transform:none}}
+.bl{animation:bl 1.2s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+</style></defs>
+<g class="tx"><text x="2" y="20" class="n">// 04</text><text x="0" y="52" class="t">TELEMETRY<tspan class="bl" fill="#ff1a2e">_</tspan></text></g>
+<g transform="translate(231 44)"><rect class="ln" width="639" height="2" fill="url(#g)"/></g>
+</svg>

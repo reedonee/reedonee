@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+<defs><linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff1a2e" stop-opacity=".55"/><stop offset="1" stop-color="#3a0008" stop-opacity=".2"/></linearGradient>
+<style>
+.a{animation:wv 9s linear infinite}.b{animation:wv 14s linear infinite reverse;opacity:.5}
+@keyframes wv{to{transform:translateX(-600px)}}
+.t{font:italic 900 34px Impact,'Arial Black','Segoe UI',Helvetica,Arial,sans-serif;fill:#fff;letter-spacing:8px}
+.s{font:600 13px Consolas,'Courier New',monospace;fill:#ff9aa2;letter-spacing:4px}
+.pl{animation:pl 3s ease-in-out infinite}@keyframes pl{50%{opacity:.55}}
+</style></defs>
+<g class="b"><path d="M0 110 Q150 70 300 110 T600 110 T900 110 T1200 110 T1500 110 T1800 110 V170 H0Z" fill="url(#w)"/></g>
+<g class="a"><path d="M0 125 Q150 95 300 125 T600 125 T900 125 T1200 125 T1500 125 T1800 125 V170 H0Z" fill="url(#w)"/></g>
+<g class="pl"><text x="600" y="58" text-anchor="middle" class="t">STAY RED</text></g>
+<text x="600" y="86" text-anchor="middle" class="s">THANKS FOR DROPPING BY · @REEDONEE</text>
+</svg>

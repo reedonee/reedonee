@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff1a2e" stop-opacity="0"/><stop offset=".5" stop-color="#ff1a2e"/><stop offset="1" stop-color="#ff1a2e" stop-opacity="0"/></linearGradient>
+<radialGradient id="o"><stop offset="0" stop-color="#fff"/><stop offset=".3" stop-color="#ff4d5a"/><stop offset="1" stop-color="#ff1a2e" stop-opacity="0"/></radialGradient>
+<style>.o{animation:mv 3.5s cubic-bezier(.6,0,.4,1) infinite alternate}@keyframes mv{from{transform:translateX(80px)}to{transform:translateX(920px)}}</style></defs>
+<rect x="0" y="11.5" width="1000" height="1" fill="url(#g)"/>
+<g class="o"><ellipse cx="0" cy="12" rx="60" ry="6" fill="url(#o)" opacity=".9"/></g>
+<rect x="496" y="8" width="8" height="8" transform="rotate(45 500 12)" fill="#ff1a2e"/>
+</svg>
